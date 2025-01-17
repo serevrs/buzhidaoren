@@ -1,0 +1,7 @@
+click==8.1.7
+routeros-api==0.17.0
+rich==13.7.0
+python-dotenv==1.0.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
